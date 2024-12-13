@@ -84,7 +84,9 @@ pip install flask requests
 ---
 
 ## Screenshots
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot]
+![image](https://github.com/user-attachments/assets/bb9a2856-e967-44e8-a3ce-594bb183dcf0)
+
 
 ---
 
